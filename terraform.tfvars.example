@@ -1,0 +1,3 @@
+vpc_name = "myvpx"
+zone_id = "ZXXXXXXXXXXXXX"
+domain_name = "example.com"
